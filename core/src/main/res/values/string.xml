@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="image_for_item_or_for_movies">Image for item or for movies</string>
+    <string name="title">Title</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto consequuntur, corporis facilis ipsam iusto modi mollitia necessitatibus nulla numquam obcaecati odio pariatur provident qui quibusdam reprehenderit, similique unde ut voluptatem.</string>
+    <string name="image_button_for_favorite">Image button for favorite</string>
+</resources>
