@@ -25,4 +25,7 @@
     <string name="year">Year</string>
     <string name="description">Description</string>
     <string name="favorite_button">Favorite Button</string>
+
+    <string name="power_connected">Power connected!</string>
+    <string name="power_disconnected">Power disconnected!</string>
 </resources>

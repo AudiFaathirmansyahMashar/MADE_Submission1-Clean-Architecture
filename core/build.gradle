@@ -24,7 +24,7 @@ android {
         consumerProguardFiles "consumer-rules.pro"
 
         buildConfigField("String", "BASE_LINK", '"https://api.themoviedb.org/"')
-        buildConfigField("String", "MOVIE", '"3/movie/top_rated?api_key=YOUR_API_KEY"')
+        buildConfigField("String", "MOVIE", '"3/movie/top_rated?api_key=172259b99b7d25555b30b775fb57765c"')
         buildConfigField("String", "LINK_IMAGE", '"https://image.tmdb.org/t/p/w600_and_h900_bestv2/"')
     }
 
